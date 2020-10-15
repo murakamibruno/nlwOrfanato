@@ -1,0 +1,1 @@
+para iniciar o front utilizar o comando yarn start
